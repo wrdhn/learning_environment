@@ -1,0 +1,30 @@
+{
+    "material": [
+        {
+            "name": "Python",
+            "start_from": ""
+        }
+    ],
+    "tutorials": [
+        {
+            "name": "Python Tutorial",
+            "url": "https://www.youtube.com/watch?v=fmZX-5r0t5E&t=177s"
+        }
+    ],
+    "docs": [
+        {
+            "name": "W3Schools Python",
+            "url": "https://www.w3schools.com/python/"
+        },
+        {
+            "name": "Python error handling",
+            "url": "https://www.coursera.org/tutorials/python-exception-cheat-sheet"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Belajar Python",
+            "path": "/home/yhustya/belajar_python"
+        }
+    ]
+}
